@@ -1,0 +1,35 @@
+.box{
+  padding: 10px;
+  background-color: blue;
+  margin-bottom: 2px;
+}
+.inner-box{
+  background-color: red;
+}
+.outer-box{
+  background-color: purple;
+}
+p{
+  color: white;
+  /* padding: 10px; */
+}
+.test{
+  background-color: green;
+}
+
+.box1{
+  padding: 10px;
+  background-color: yellow;
+}
+.two{
+  background-color: green;
+}
+.three{
+  background-color: blue;
+}
+.four{
+  background-color: gold;
+}
+.five{
+  background-color: red;
+}
